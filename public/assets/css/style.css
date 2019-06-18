@@ -1,0 +1,9 @@
+footer {
+    background: #353A3F;
+    width: 100%;
+    color: aliceblue;
+    position: fixed;
+    /*fija*/
+    bottom: 0px;
+    padding: 10px;
+}
